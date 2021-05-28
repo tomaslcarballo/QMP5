@@ -12,7 +12,7 @@ public class QMP5 {
     void compartiGuardarropasConOtroUsuario(Usuario otroUsuario, Guardarropa guardarropa){
       otroUsuario.guardarropas.add(guardarropa);
     }
-    
+
 
   void agregarRecomendacion(Recomendacion recomendacion){
     recomendaciones.add(recomendacion);
@@ -70,7 +70,7 @@ public class QMP5 {
   }
 
  class Prenda{
-
+    //Prenda para esta iteracion decidí no usar atributos
 }
 
   //3er y 4to requerimiento
